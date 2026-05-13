@@ -1,4 +1,4 @@
-# Windows-SSH-Bind-Shell (using Python module of paramiko)
+# Windows-SSH-Bind-Shell (Use Python Module of Paramiko)
 A secure Windows bind shell implemented in Python using Paramiko (SSHv2) for encrypted communication.
 
 ## Prerequisites
