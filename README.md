@@ -10,9 +10,9 @@ pip install paramiko
 ## 🚀 Usage Guide
 When connecting for the first time, you will be prompted to trust the server's RSA key. Simply type yes to proceed, then enter the following credentials:
 
-Username: windows-bind-shell
+### Username: windows-bind-shell
 
-Password: windows-bind-shell
+### Password: windows-bind-shell
 (Note: As with standard Linux/Kali SSH, the password characters will not be displayed as you type.)
 <img width="1517" height="745" alt="螢幕擷取畫面 2026-05-13 125146" src="https://github.com/user-attachments/assets/b73a6d56-c508-4f6d-984a-48035b4db35a" />
 
