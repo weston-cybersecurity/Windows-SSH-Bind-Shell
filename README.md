@@ -10,6 +10,6 @@ Default Username: windows-bind-shell
 
 
 Default Password: windows-bind-shell (It's not will show you anything, like enter password to the Kali Linux)
-<img width="686" height="745" alt="螢幕擷取畫面 2026-05-13 125146" src="https://github.com/user-attachments/assets/b73a6d56-c508-4f6d-984a-48035b4db35a" />
+<img width="1517" height="745" alt="螢幕擷取畫面 2026-05-13 125146" src="https://github.com/user-attachments/assets/b73a6d56-c508-4f6d-984a-48035b4db35a" />
 
-<img width="686" height="248" alt="螢幕擷取畫面 2026-05-13 125317" src="https://github.com/user-attachments/assets/e574dc96-f49f-4280-a028-767a84f5e02c" />
+<img width="1517" height="745" alt="螢幕擷取畫面 2026-05-13 125317" src="https://github.com/user-attachments/assets/e574dc96-f49f-4280-a028-767a84f5e02c" />
