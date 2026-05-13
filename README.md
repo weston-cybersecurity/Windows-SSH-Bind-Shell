@@ -5,9 +5,9 @@ A secure Windows bind shell implemented in Python using Paramiko (SSHv2) for enc
 First of all, ensure you have the `paramiko` library installed. You can install it via pip:
 ```bash
 pip install paramiko
+```
 
-
-## How to using
+## How to Use
 
 When connecting for the first time, you will be asked to trust the RSA key. Follow the prompts to enter your username and password:
 
