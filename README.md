@@ -24,3 +24,11 @@ When connecting for the first time, you will be prompted to trust the server's R
 
 As shown in the Wireshark capture below, all communication between the client and server is encapsulated within the SSHv2 protocol. Any attempt to sniff the network will only yield encrypted packets, ensuring that sensitive commands and data remain confidential.
 <img width="1517" height="745" alt="螢幕擷取畫面 2026-05-13 125517" src="https://github.com/user-attachments/assets/6f4dbfbb-3998-47f8-a0a2-e97bf42b8679" />
+
+## 📬 Contact & Feedback
+
+If you have any questions or want to share your ideas, feel free to reach out:
+
+- **Discussions**: [Join the conversation here](https://github.com/weston-cybersecurity/Windows-SSH-Bind-Shell/discussions)
+- **Email**: `jaceweston45@gmail.com`
+- **Encrypto Email**: `westonsecurity45@protonmail.com`
